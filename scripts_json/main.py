@@ -24,7 +24,7 @@ def main():
         print("Could not open file: '{args.file}'".format(args=args))
         exit(1)
 
-    if not hasattr(scripts, args.script):
+    if args.script not in scripts:
         all_scripts = "\n".join(scripts.keys())
         print(
             "Script '{args.script}' not found out of: {all_scripts}".format(
