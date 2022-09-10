@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "scripts-json"
-version = "1.0.1"
+version = "1.0.2"
 description = "A tool to run scripts from a JSON file"
 authors = ["Olivier Audet-Yang <oaudetyang@gmail.com>"]
 repository = "https://github.com/oliveman01/scripts.json"
