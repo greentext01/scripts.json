@@ -3,7 +3,8 @@ name = "scripts-json"
 version = "1.0.1"
 description = "A tool to run scripts from a JSON file"
 authors = ["Olivier Audet-Yang <oaudetyang@gmail.com>"]
-repository = ""
+repository = "https://github.com/oliveman01/scripts.json"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.5"
