@@ -2,6 +2,11 @@
 
 A tool to run scripts from a JSON file
 
+## Installation
+```
+pip install scripts-json
+```
+
 ## Usage
 
 ```
